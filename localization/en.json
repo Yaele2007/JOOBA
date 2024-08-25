@@ -1,0 +1,10 @@
+{
+    "guess_the_time": "Guess the Time!",
+    "select_location": "Select Location",
+    "enter_time": "Enter Time",
+    "ok": "OK",
+    "correct_guesses": "Correct Guesses",
+    "no_correct_guesses_yet": "No correct guesses yet",
+    "incorrect_guess": "Incorrect Guess",
+    "welcome": "Welcome!"
+  }
